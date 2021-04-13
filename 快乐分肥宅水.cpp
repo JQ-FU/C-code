@@ -8,6 +8,6 @@ int main()
 	j=n*2;
 	printf("%.3f\n",m);
 	printf("%d\n",j);
-	return 0;
+	return 0;// 
 	
 }
